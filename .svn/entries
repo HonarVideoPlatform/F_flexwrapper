@@ -2,13 +2,13 @@
 
 dir
 8923
-svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod/flash/flexwrapper/v1.2
+svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod/flash/flexwrapper/v1.3
 svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod
 
 
 
-2010-10-26T15:46:33.706086Z
-3885
+2010-10-26T16:25:12.356387Z
+3887
 michalr
 
 
@@ -32,10 +32,10 @@ file
 
 
 
-2017-07-08T16:22:38.000000Z
-79f64545a48e63769b33ce609b697e02
-2010-10-26T15:46:33.706086Z
-3885
+2017-07-03T23:28:28.000000Z
+7271737f5de824ae3db774f34371f57b
+2010-10-26T16:25:12.356387Z
+3887
 michalr
 
 
@@ -58,7 +58,7 @@ michalr
 
 
 
-216
+208
 
 FlexWrapper.swf
 file
@@ -66,10 +66,10 @@ file
 
 
 
-2017-07-08T16:22:38.000000Z
+2017-07-03T23:28:28.000000Z
 ce083d761987a6b31a5da586536c3372
-2010-10-26T15:46:33.706086Z
-3885
+2010-10-26T16:25:12.356387Z
+3887
 michalr
 has-props
 
